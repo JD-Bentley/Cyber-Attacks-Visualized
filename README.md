@@ -1,2 +1,5 @@
 # Cyber-Attacks-Visualized
-A view of cybersecurity attacks across the globe.
+Data visualization of cybersecurity events from across the globe.
+
+* ipynb file in source must be run locally to create dashboard.
+
